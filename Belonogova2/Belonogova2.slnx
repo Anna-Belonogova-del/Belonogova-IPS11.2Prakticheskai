@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BibliotekaBel/BibliotekaBel.csproj" />
+  <Project Path="../TestikBeloi/TestikBeloi.csproj" />
+  <Project Path="Belonogova2.csproj" />
+</Solution>
